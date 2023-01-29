@@ -1,0 +1,39 @@
+/* body{
+    padding: 50px 0;
+}
+.div1{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    transform: matrix(100px);
+    transition: all 800ms;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+/* 
+.div1:hover{
+    background-color: aqua;
+    transform: scale(2.5);
+} */ 
+
+/* html{
+    scroll-behavior: smooth;
+}
+
+.div{
+    background-color: blue;
+    border: 7px solid red;
+    height: 50px;
+    margin: 50px;
+}
+
+button{
+    cursor: pointer;
+    font-size: large;
+    position: fixed;
+    left: 50px;
+    bottom: 20px;
+    display: none;
+} */
