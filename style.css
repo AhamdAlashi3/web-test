@@ -21,8 +21,8 @@
 /* html{
     scroll-behavior: smooth;
 }
-
-.div{
+*/
+/* .div{
     background-color: blue;
     border: 7px solid red;
     height: 50px;
@@ -32,8 +32,8 @@
 button{
     cursor: pointer;
     font-size: large;
-    position: fixed;
-    left: 50px;
-    bottom: 20px;
-    display: none;
-} */
+    /* position: fixed; */
+    /* left: 50px;
+    bottom: 20px; */
+    /* display: none; */
+/*}  
